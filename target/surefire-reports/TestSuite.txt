@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 38.361 s <<< FAILURE! - in TestSuite
+MyTest.Guru99Demo1.guru99HomePage[k.gudatal@gmail.com, 974025.0](4)  Time elapsed: 0.104 s  <<< FAILURE!
+java.lang.AssertionError: expected [Home page] but found [Mobile]
+	at MyTest.Guru99Demo1.guru99HomePage(Guru99Demo1.java:30)
+
+MyTest.Guru99Demo1.guru99HomePage[raja.gudatal@gmail.com, 849507.0](7)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: expected [Home page] but found [Mobile]
+	at MyTest.Guru99Demo1.guru99HomePage(Guru99Demo1.java:30)
+
